@@ -1,0 +1,7 @@
+SISTEMAS DE CODIFICACION
+------------------------
+
+001: guardaba solo un historial de objetos.
+
+A partir del 002, quiero guardar el historial y el sistema de capas,
+guardarlo en un formato legible  estandarizado (con diccionarios ordenados) y ademas incorporar en el json la informacion sobre el sistema de codificación.

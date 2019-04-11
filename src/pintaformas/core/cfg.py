@@ -1,0 +1,35 @@
+
+NOMBRE_PROGRAMA = "PINTAFORMAS. Version 0.5"
+
+
+
+DIMENSIONES_VENTANA = (1000, 600) # en pixels
+DIMENSIONES_LIENZO = (300, 200) # en mm
+
+FPS = 30
+
+# Teclado
+ESPERA_INICIAL_REPETICION_TECLA = 80
+INTERVALO_ENTRE_REPETICION_TECLA = 50
+
+# Colores
+COLOR_PLUMA = (255, 0, 0)
+COLOR_AREA_INFORMATIVA = (255, 180, 0)
+COLOR_CURSOR = (255, 255, 0)
+COLOR_SELECCION = (255, 255, 0)
+COLOR_FONDO = (100, 100, 100)
+COLOR_TRANSPARENTE =  (1, 1, 1)
+COLOR_NEGRO = (0, 0, 0)
+
+# Interior ventana
+PORCENTAJE_AREA_DIBUJO = 0.75
+POSICION_CURSOR_POR_DEFECTO = (100, 100)
+
+# Otros valores por defecto
+RADIO_CIRCULO = 50
+PASO = 10
+
+
+# Debug
+imprimir_eventos_al_procesarlos = True
+debug_codigos_a_renderizar = True
